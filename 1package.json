@@ -1,0 +1,21 @@
+{
+  "name": "hello-sqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^1.0.6",
+    "dbdjs.db": "^1.0.2",
+    "discord-tts": "^1.2.1",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.18"
+  }
+}

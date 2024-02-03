@@ -1,0 +1,12 @@
+{  
+  "prefix1": "?",
+  "prefix2": "Ez4",
+  "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+    }
+}

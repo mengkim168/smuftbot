@@ -1,0 +1,58 @@
+{
+  "name": "hello-sqlite",
+  "version": "0.0.1",
+  "description": "A Node app with SQLite database, instantly up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@discordjs/node-pre-gyp": "^0.4.0",
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/voice": "^0.5.6",
+    "aoi.js": "^5.1.0",
+    "ascii-table": "^0.0.9",
+    "colors": "^1.4.0",
+    "discord-prefix": "^3.0.0",
+    "discord-tts": "^1.2.2",
+    "discord.js": "^12.5.3",
+    "distube": "^2.8.18",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "fastify": "^3.16.2",
+    "fastify-formbody": "^5.0.0",
+    "fastify-static": "^4.2.2",
+    "ffbinaries": "^1.1.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.4.1",
+    "fluent-ffmpeg": "^2.1.2",
+    "handlebars": "^4.7.7",
+    "libsodium-wrappers": "^0.7.9",
+    "lint": "^1.1.2",
+    "lint-fix": "^0.24.0",
+    "moment": "^2.29.1",
+    "node-cmd": "^5.0.0",
+    "node-pre-gyp": "^0.17.0",
+    "openjsk": "^1.2.2",
+    "opusscript": "0.0.8",
+    "point-of-view": "^4.14.0",
+    "sqlite": "^4.0.23",
+    "sqlite3": "^5.0.2"
+  },
+  "engines": {
+    "node": ">=16.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-sqlite"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "sqlite"
+  ]
+}
